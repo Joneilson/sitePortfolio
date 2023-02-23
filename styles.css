@@ -23,7 +23,7 @@
     top: 0;
     left: 0;
     height: 100px;
-    background: rgba(22, 22, 192, 0.9);
+    background: rgba(147, 80, 17, 0.748);
     backdrop-filter: blur(10px);
     box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
   }
@@ -74,7 +74,7 @@
   }
   
   .sobre {
-    background: #f5f3ff;
+    background: #2d2f2e60;
   }
   
   .sobre > .container {
@@ -95,9 +95,9 @@
   }
   
   .projetos {
-    background: #f8fafc;
+    background: #222223;
   }
   
   .habilidades {
-    background: #f5f3ff;
+    background: #2d2f2e60;
   }
